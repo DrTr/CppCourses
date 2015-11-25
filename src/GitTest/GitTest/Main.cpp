@@ -1,8 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello git" << std::endl;      
-    std::cout << "Changes" << std::endl;
+    cout << "Hello git" << endl;      
+    cout << "Changes" << endl;
     return 0;
 }
