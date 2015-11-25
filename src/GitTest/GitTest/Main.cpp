@@ -8,7 +8,7 @@ void func()
 
 int main()
 {
-    cout << "Hello git" << endl;      
+    cout << "Hello git" << endl;
     cout << "Changes" << endl;
     return 0;
 }
