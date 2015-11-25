@@ -7,6 +7,10 @@ void func()
     cout << "func" << endl;
 }
 
+void func2()
+{
+}
+
 int main()
 {
     cout << "Hello git" << endl;
