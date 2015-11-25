@@ -7,8 +7,9 @@ void func()
     cout << "func" << endl;
 }
 
-void func2()
+int func2()
 {
+    return 42;
 }
 
 int main()
